@@ -11,7 +11,7 @@ This project transforms a raw medicines dataset into a normalized Oracle databas
 1. Run all scripts in the `schema/` folder to create tables.
 2. Run scripts in `procedures/` to create procedures and the search function.
 3. Run scripts in `triggers/` to create triggers.
-4. (Optional) Run `data/sample_data.sql` to insert test data and try out the features.
+4. (Optional) Run `data.sql` to insert test data and try out the features.
 
 ## Example
 Search for medicines by active ingredient, dosage, and packaging:
